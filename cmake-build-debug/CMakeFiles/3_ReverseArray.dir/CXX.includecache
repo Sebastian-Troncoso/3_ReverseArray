@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sebastiantroncoso/CLionProjects/NYU_BridgeProgram_Homework/Week8/3_ReverseArray/main.cpp
+iostream
+-
+
